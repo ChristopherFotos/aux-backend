@@ -1,11 +1,4 @@
-# Office Hours Starter
-
-An [Express server](http://expressjs.com) implementation
-
-## Requirements
-
-- Node v10+
-- [Configured .env file](../README.md)
+# Aux backend
 
 ## How to run
 
