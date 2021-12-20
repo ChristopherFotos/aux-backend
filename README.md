@@ -3,8 +3,9 @@
 An [Express server](http://expressjs.com) implementation
 
 ## Requirements
-* Node v10+
-* [Configured .env file](../README.md)
+
+- Node v10+
+- [Configured .env file](../README.md)
 
 ## How to run
 
@@ -20,4 +21,6 @@ npm install
 npm start
 ```
 
-3. Go to `localhost:4242` to see the demo
+3. Go to `localhost:4242/spotify/login` to log in with spotify. A room and playlist will automatically be created for you. You can see the room in data.json.
+
+4. start the aux-guest app to join a room and add songs using the payment flow
